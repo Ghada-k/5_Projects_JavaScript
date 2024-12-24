@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "options": [
+                "Rome",
+                "Paris",
+                "Berlin",
+                "Madrid"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Oxygen",
+                "Gold",
+                "Osmium",
+                "Oganesson"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "What is the square root of 64?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": "8"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Mark Twain",
+                "Jane Austen"
+            ],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "Mercury",
+                "Mars",
+                "Venus",
+                "Saturn"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "options": [
+                "Tomato",
+                "Avocado",
+                "Potato",
+                "Cucumber"
+            ],
+            "answer": "Avocado"
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "options": [
+                "Amazon River",
+                "Nile River",
+                "Yangtze River",
+                "Mississippi River"
+            ],
+            "answer": "Nile River"
+        },
+        {
+            "question": "Which gas do plants use for photosynthesis?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Claude Monet"
+            ],
+            "answer": "Leonardo da Vinci"
+        }
+    ]
+}
